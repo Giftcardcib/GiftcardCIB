@@ -3,12 +3,11 @@
     <meta charset="UTF-8">
     <title>Get Your Card Now</title>
   </head>
-  <body>
+<body>
   
-<script type="text/javascript">
-    var CPABUILDSETTINGS={"it":737478,"key":"ba092"};
-</script>
-<script src="https://cpabuild.com/public/external/locker.js"></script>
+  <script type="text/javascript" src="https://viral782.com/track.html?js=386141"></script>
+    
+    
   
   </body>
 </html>
